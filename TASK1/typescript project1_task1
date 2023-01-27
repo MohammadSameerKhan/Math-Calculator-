@@ -1,0 +1,15 @@
+Script started on Tue 24 Jan 2023 08:35:54 PM CST
+]0;gx6174jg@csci4:~/PROJECT_1[?1034h[gx6174jg@csci4 PROJECT_1]$ g++ project1_task1.cpp fraction.cpp
+]0;gx6174jg@csci4:~/PROJECT_1[gx6174jg@csci4 PROJECT_1]$ ./a.out
+Enter the first fraction: numerator denominator
+1
+2
+Enter the Second fraction: numerator denominator
+4
+6
+The two fractions entered are
+f1 = 1/2
+f2 = 4/6
+]0;gx6174jg@csci4:~/PROJECT_1[gx6174jg@csci4 PROJECT_1]$ exit
+
+Script done on Tue 24 Jan 2023 08:37:04 PM CST
